@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="904e8df1-aac3-4de9-9ac0-7d39b7434a07" name="Changes" comment="create project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.8.4" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ro3JgAqyYacbATQMksdekfu3sT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rres" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.5382803" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\qpp-eval\rres" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86178\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="904e8df1-aac3-4de9-9ac0-7d39b7434a07" name="Changes" comment="" />
+      <created>1687902537747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687902537747</updated>
+      <workItem from="1687902540838" duration="756000" />
+      <workItem from="1687903315163" duration="5124000" />
+      <workItem from="1687909557125" duration="1432000" />
+      <workItem from="1687961965128" duration="3000" />
+      <workItem from="1687962075159" duration="870000" />
+      <workItem from="1687989917663" duration="3754000" />
+      <workItem from="1688049353901" duration="2313000" />
+      <workItem from="1688051697063" duration="20105000" />
+      <workItem from="1688071992404" duration="6801000" />
+      <workItem from="1688248092013" duration="5306000" />
+      <workItem from="1688329873024" duration="14343000" />
+      <workItem from="1688377751565" duration="14219000" />
+      <workItem from="1688467966914" duration="590000" />
+      <workItem from="1688473019614" duration="843000" />
+      <workItem from="1688507643072" duration="5499000" />
+      <workItem from="1688566680344" duration="8442000" />
+      <workItem from="1688672263039" duration="437000" />
+      <workItem from="1688674743390" duration="6768000" />
+      <workItem from="1688778950339" duration="780000" />
+      <workItem from="1688859590315" duration="4361000" />
+      <workItem from="1688952211216" duration="216000" />
+      <workItem from="1689079117938" duration="650000" />
+      <workItem from="1689163900682" duration="10482000" />
+      <workItem from="1689176321406" duration="33000" />
+      <workItem from="1689176366686" duration="361000" />
+    </task>
+    <task id="LOCAL-00001" summary="create project">
+      <created>1689172005548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689172005548</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create project">
+      <created>1689172252765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689172252765</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create project">
+      <created>1689173473849</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689173473849</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create project">
+      <created>1689175466457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689175466457</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="create project" />
+    <option name="LAST_COMMIT_MESSAGE" value="create project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
