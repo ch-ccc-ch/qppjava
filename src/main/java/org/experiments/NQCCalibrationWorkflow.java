@@ -157,7 +157,8 @@ public class NQCCalibrationWorkflow {
 //        }
 
         try {
-            PrintWriter writer = new PrintWriter("myoutput.txt", "UTF-8");
+            PrintWriter writer = new PrintWriter("401-450gt.txt", "UTF-8");
+            PrintWriter writer2 = new PrintWriter("401-450nqc.txt", "UTF-8");
             for (TRECQuery query : queries) {
                 RetrievedResults rr = null;
                 TopDocs topDocs = topDocsMap.get(query.id);
@@ -167,21 +168,26 @@ public class NQCCalibrationWorkflow {
                 rr = new RetrievedResults(query.id, topDocs); // this has to be set with the topdocs
                 qppEstimates[i] = (float)qppMethod.computeSpecificity(
                         query.getLuceneQueryObj(), rr, topDocs, qppTopK);
-                writer.println(query.id + "\t" + d + "\t" + qppEstimates[i]);
+                writer.println(query.id + "\t" + d);
+                writer2.println(query.id +  "\t" + qppEstimates[i]);
+                i++;
             }
             writer.close();
+            writer2.close();
         } catch (IOException e) {
             System.out.println("An error occurred while writing to the file.");
             e.printStackTrace();
         }
 
+
+
         double p_corr = new PearsonCorrelation().correlation(evaluatedMetricValues, qppEstimates);
         double k_corr = new KendallsCorrelation().correlation(evaluatedMetricValues, qppEstimates);
         System.out.println(String.format("P-rho = %.4f, K-tau = %.4f", p_corr, k_corr));
         System.out.println("*************************************");
-        for (String key:gt.keySet()){
-            System.out.println("queryid=  "+key+"   and value=  "+gt.get(key));
-        }
+//        for (String key:gt.keySet()){
+//            System.out.println("queryid=  "+key+"   and value=  "+gt.get(key));
+//        }
 
 //        for (TRECQuery query : queries) {
 //            System.out.println("Query "+query.id+": "+query.desc);

@@ -4,11 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="904e8df1-aac3-4de9-9ac0-7d39b7434a07" name="Changes" comment="create project" />
+    <list default="true" id="904e8df1-aac3-4de9-9ac0-7d39b7434a07" name="Changes" comment="create project">
+      <change afterPath="$PROJECT_DIR$/401-450gt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/401-450nqc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_2.cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_2.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_2.si" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.fdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.fdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.fdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.fnm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.nvm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.si" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.tvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.tvm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d.tvx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d_Lucene84_0.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d_Lucene84_0.tim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d_Lucene84_0.tip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_d_Lucene84_0.tmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_f.cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_f.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_f.si" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_n.cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_n.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_n.si" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.fdm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.fdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.fdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.fnm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.nvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.nvm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.si" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.tvd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.tvm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o.tvx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o_Lucene84_0.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o_Lucene84_0.tim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o_Lucene84_0.tip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/_o_Lucene84_0.tmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myindex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rres/res1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/myutils/XMLtoTXT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qpp.properties" beforeDir="false" afterPath="$PROJECT_DIR$/qpp.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rres/res.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rres/res.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/experiments/NQCCalibrationWorkflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/experiments/NQCCalibrationWorkflow.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +104,28 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\qpp-eval\rres" />
+      <recent name="D:\qpp-eval" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="XMLtoTXT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.myutils.XMLtoTXT" />
+      <module name="qppeval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.myutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.XMLtoTXT" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -87,6 +163,13 @@
       <workItem from="1689163900682" duration="10482000" />
       <workItem from="1689176321406" duration="33000" />
       <workItem from="1689176366686" duration="361000" />
+      <workItem from="1689445547972" duration="47000" />
+      <workItem from="1689473482901" duration="3550000" />
+      <workItem from="1689477386907" duration="512000" />
+      <workItem from="1689478184779" duration="285000" />
+      <workItem from="1689509541949" duration="2043000" />
+      <workItem from="1689512109932" duration="2613000" />
+      <workItem from="1689516011570" duration="3098000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1689172005548</created>
